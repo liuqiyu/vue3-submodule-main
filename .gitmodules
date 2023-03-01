@@ -1,0 +1,3 @@
+[submodule "src/webPublic"]
+	path = src/webPublic
+	url = https://github.com/liuqiyu/vue-submodule-child.git
